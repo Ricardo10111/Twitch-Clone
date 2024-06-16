@@ -106,7 +106,7 @@ export default function AccountCad() {
                 className='w-7 h-7 rounded-full mr-3'
               />
             </div>
-            <div className=' flex-col p-0 hidden '>
+            <div className=' flex-col p-0 hidden xl:flex'>
               <span className='text-[15px] font-semibold text-[#dedee3] mb-[-4px]'>
                 {item.name}
               </span>
