@@ -24,7 +24,7 @@ export default function Content() {
         </div>
         <div className='flex flex-row justify-between'>
           <div className='flex justify-center items-center border-solid border-[1px] rounded-[0.2rem] border-[#3b3b44] bg-[#18181b] h-[2rem] w-[13.3rem] p-[0.2rem] hover:border-[2px]'>
-            <img src='/public/searchCo.svg' alt='' className='h-[20px] w-[20px]'/>
+            <img src='/searchCo.svg' alt='' className='h-[20px] w-[20px]'/>
             <input
               type='search'
               name=''
@@ -37,7 +37,7 @@ export default function Content() {
             <span className='text-[13px] font-semibold'>Ordenar por</span>
             <div className='flex justify-center items-center  border-solid border-[1px] rounded-[0.2rem] border-[#3b3b44] bg-[#18181b] w-[12rem] h-[2rem] p-[0.3rem_0.4rem] hover:border-[2px]'>
             <button className='flex items-center bg-transparent border-none text-[13px] text-[#efeff1] hover:border-[3px] w-[100%] h-[70%]' >Recomendaciones para ti</button>
-            <img src="/public/angle-arrow-down_icon-icons.com_73683.svg" alt="" className='h-3 w-3'/>
+            <img src="/angle-arrow-down_icon-icons.com_73683.svg" alt="" className='h-3 w-3'/>
 
             </div>
             

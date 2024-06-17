@@ -24,17 +24,17 @@ export default function NavBar() {
             className='hidden sm:block w-[80%] h-[70%] bg-transparent border-solid border-[1.8px] border-[#3b3b44] p-[0_10px] rounded-[0.375rem_0_0_0.375rem] text-[#efeff1] hover:border-[3px]'
           />
           <span className='bg-[#53535F61] p-[7px] rounded-[0_0.5rem_0.5rem_0] ml-[4rem] sm:ml-0 cursor-pointer'>
-            <img src='/public/search.svg' alt='' />
+            <img src='/search.svg' alt='' />
           </span>
         </div>
       </div>
       <div className='flex justify-end items-center'>
         <span>
-          <img src='/public/subscription_notifications_communication_updates_email_alerts_icon_260969.svg' alt='' />
+          <img src='/subscription_notifications_communication_updates_email_alerts_icon_260969.svg' alt='' />
         </span>
         <ButtonNav />
         <span>
-          <img src='/public/people.svg' alt='' />
+          <img src='/people.svg' alt='' />
         </span>
       </div>
     </nav>

@@ -5,7 +5,7 @@ export default function Menu() {
       <div className='flex gap-1 w-[250px]' >
         <span className='hidden xl:block text-[14px] font-semibold ml-2'>CANALES RECOMENDADOS</span>
         <span>
-          <img src='/public/arrow.svg' alt='' className='fill-white ml-[17px] md:ml-[50px] lg:ml-[0px]' />
+          <img src='/arrow.svg' alt='' className='fill-white ml-[17px] md:ml-[50px] lg:ml-[0px]' />
         </span>
       </div>
 
